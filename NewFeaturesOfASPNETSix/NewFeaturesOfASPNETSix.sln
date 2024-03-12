@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewFeaturesOfASPNETSix", "NewFeaturesOfASPNETSix\NewFeaturesOfASPNETSix.csproj", "{9B429012-E99A-4002-84FE-7E5BA38E35B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B429012-E99A-4002-84FE-7E5BA38E35B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B429012-E99A-4002-84FE-7E5BA38E35B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B429012-E99A-4002-84FE-7E5BA38E35B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B429012-E99A-4002-84FE-7E5BA38E35B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D101E75E-E6F3-42C1-B961-5570C9F5F8A5}
+	EndGlobalSection
+EndGlobal
